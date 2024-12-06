@@ -37,6 +37,20 @@ CREATE Table favourites
 
 Configure your MySQL credentials
 ```
+### Run the server:
+```bash
+npm start
+```
+
+### 3. Set up the Frontend (Client)
+```bash
+cd Client/client
+
+npm install
+
+npm start
+
+```
 
 
 
