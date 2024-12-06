@@ -21,8 +21,15 @@ JokesHub is a web application that allows users to search, view, and save their 
 
 ```bash
 git clone https://github.com/tejasaher1/JokesHub.git
+```
+
+### 2. Set up the Backend (Server)
+```bash
+cd Server
+
+npm install
+```
 
 
 
 
-Set up the Backend (Server)
