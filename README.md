@@ -29,7 +29,14 @@ cd Server
 
 npm install
 ```
+### Set up the MySQL database:
+```bash
+Create a database in MySQL:
+CREATE DATABASE dad_jokes;
+CREATE Table favourites
 
+Configure your MySQL credentials
+```
 
 
 
