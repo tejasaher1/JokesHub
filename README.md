@@ -15,7 +15,7 @@ JokesHub is a web application that allows users to search, view, and save their 
 - **Database**: MySQL
 - **API**: [icanhazdadjoke API](https://icanhazdadjoke.com/api#fetch-a-dad-joke)
 
-
+1] Home Page - 
 ![image](https://github.com/user-attachments/assets/92e4ed02-b9f6-480e-a82b-951fa04b0de2)
 
 ![image](https://github.com/user-attachments/assets/a5ae66da-905c-464a-8087-8168a6f6528b)
